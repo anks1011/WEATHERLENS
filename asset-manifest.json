@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WEATHERLENS/static/css/main.4bf4c9a4.css",
+    "main.js": "/WEATHERLENS/static/js/main.bf36a92f.js",
+    "static/js/787.41ccf5b3.chunk.js": "/WEATHERLENS/static/js/787.41ccf5b3.chunk.js",
+    "static/media/logo.svg": "/WEATHERLENS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WEATHERLENS/index.html",
+    "main.4bf4c9a4.css.map": "/WEATHERLENS/static/css/main.4bf4c9a4.css.map",
+    "main.bf36a92f.js.map": "/WEATHERLENS/static/js/main.bf36a92f.js.map",
+    "787.41ccf5b3.chunk.js.map": "/WEATHERLENS/static/js/787.41ccf5b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bf4c9a4.css",
+    "static/js/main.bf36a92f.js"
+  ]
+}
